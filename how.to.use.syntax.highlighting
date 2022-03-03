@@ -1,0 +1,5 @@
+{% highlight "diff-js" %}
++function myFunction() {
+  return true;
+}
+{% endhighlight %}
