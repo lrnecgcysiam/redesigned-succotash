@@ -2,5 +2,10 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 ---
-```code[class*="language-"], pre[class*="language-"] {```
+{% highlight "diff-js" %}
++function myFunction() {
+  return true;
+}
+{% endhighlight %}
+
 {{ content | safe }}
