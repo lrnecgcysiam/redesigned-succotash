@@ -80,6 +80,13 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
+
+  // only content in the `courses` directory
+  eleventyConfig.addCollection('courses', function(collection) {
+    return collection.getFilteredByGlob('./_site/courses/*.md').reverse()
+  })
+  
+
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {

@@ -1,8 +1,16 @@
 <ol reversed class="postlist" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
 {% for post in postslist | reverse %}
+{% set courselist = collections.courses | head(7) %}
+  <div class="main-sidebar col-md-3">
+    <h4 class="text-secondary mt-2 mb-4 px-3 px-sm-0"></h4>
+    {% set itemList = courselist %}
+    {% for item in itemList %}
+    {% include "includes/sidebar.njk" %}
+    {% endfor -%}
+  </div>
   <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-    <img src="IMG_1455.jpg"/>
-    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+    </a>
     <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
