@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Instagram
 templateClass: tmpl-post
 eleventyNavigation:
-  key: IG
+  key: 
   order: 4
 ---
 
