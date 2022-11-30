@@ -11,3 +11,5 @@ eleventyNavigation:
 
 Ok at least your able to have fun.
 Good Night.
+
+You like to drink? 🥃
