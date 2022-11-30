@@ -9,8 +9,4 @@ eleventyNavigation:
 
 2022-11-30 2:29 ⏰
 
-Ok at least your able to have fun.
-Good Night.
-
-You like to drink? 🥃
-Or do you like to drink? 🥛
+Good Morning 🌞
