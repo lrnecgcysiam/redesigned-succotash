@@ -9,7 +9,7 @@
           {# <img class="item-title shadow-lg w-100 img-fluid rounded" src="{{ item.data.thumb }}" alt="{{ item.data.title }} image"> #}
         </a>
       <time class="item-date small d-block text-body" datetime="{{ item.date | simpleDate | safe }}">{{ item.date | simpleDate | safe }}</time>
-      </div>
+  </div>
     {% endif %}
 
     <div class="{% if item.data.thumb %}col-md-9{% else %} col-m {% endif %}">
