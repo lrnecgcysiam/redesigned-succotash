@@ -1,0 +1,46 @@
+---
+title: I made a big mistake....
+description: Dealing with problems ...
+date: 2021-10-05
+layout: layouts/post.njk
+---
+
+## I made a big boo-boo and it is fixed now.
+
+It was about 2 weeks since my last blog post on here. Mainly 
+it was because I ran into a build issue with 11ty and I was not able fix it right away. The problem was from a change I made in one of my posts. 
+
+## You can not add comments to your markdown pages.
+
+Markdown is a type of file that allows you to create a page
+similar to a HTML page but the way the page is read by your 
+build process is different. The error did not show its face 
+immediately. Instead I had to read some of the cryptic error
+codes that didn't help me figure out
+
+
+```
+> Having trouble rendering njk (and markdown) template ./posts/2021-09-09.md
+`TemplateContentRenderError` was thrown
+> (./posts/2021-09-09.md) [Line 8, Column 9]
+  unknown block tag: image
+
+```
+This was the error message that was shown when i ran the command ` eleventy --serve `. It builds the blog pages for the web and then the serves them from the `_site` folder.
+
+
+This error message may not mean much to you but it is a specifc error in the pages I tried to run with the template for the posts.
+
+Despite not understanding what the error messages actually was I was able to solve the isse but going back and looking at the logs and the changes I made in my git repository.
+
+If you visit the [Github Repo](https://github.com/lrnecgcysiam/fantastic-train)site I have a public copy of the repository available to the world. If you visit that url under the commits you will see.
+
+## Why I still think this is the best way to blog online.
+
+This setup is free if you don't buy a domain. All your content is yours. meaning that this is the single point that your content lives. If you want to change something, you can with your computer and a internet connection.
+
+When you make a mistake you can fix it yourself rather quickly. Your site will not go down like how facebook did yesterday. I talk about this more in a previous blog message. 
+
+[Why should you build your own blog sites](https://lrnecgysiam.com/posts/2021-09-09/)
+
+I plan to write small chunks that will lead to something larger in the future.

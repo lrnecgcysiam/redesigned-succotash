@@ -1,0 +1,20 @@
+---
+title: Added a new link to the page (SOCIAL)
+description: Updates to the blog
+date: 2022-03-03
+tags:
+  - blog
+  - website updates
+layout: layouts/post.njk
+---
+
+### Updates to the site
+
+I have updated this website with a new navigation link called Social. It is nothing special 
+just a place that people can visit so that they can make sure they are getting the correct social media accounts that I have made public that I use.
+
+## Why this is important?
+
+I believe that social media is getting out of hand and it is hard to tell which accounts are true and which are not. Therefore creating content outside the social media platforms and an extra level of validity
+that a person can use to share there content with the world.
+

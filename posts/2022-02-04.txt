@@ -1,0 +1,49 @@
+---
+title: Course Schedule This Semester (UPDATED!)
+description: Graduate course work study group
+date: 2022-02-22
+tags:
+  - CompSci
+  - Collbaoration
+  - Work study
+layout: layouts/post.njk
+---
+
+## Are you looking to work together on homeworks and test preparation?
+
+[My personal site](https://spring-2022-brooklyn-college-chrissamuel.netlify.app/)
+
+This semester at working remotely for my expensive education. I think it would be best if I can work with someone who would like to do well in there classes. I am taking the following classes this semester.
+
+- Operating Systems 1 (Linux - Debian - Ubuntu)
+- Object Oriented Programming (Java)
+- Advanced Databases Systems  (PostGres)
+- Local Area Networks
+- Computer Architecture
+
+If you are not taking it at my School and you wish to still join you certainly can. I only can manage 300 users this semester though and the seats fill up very fast. The idea is to get people excited about learning again I have lots examples that helped me learn how to code and remember large amounts of information.
+
+### What will you need in order to be successful in our study group?
+
+You will need to have at least the following items.
+
+- A computer with a high speed internet connection.
+- Your active github account
+- Your social media account or personal website
+- Your attention.
+
+
+### Dedicated Youtube Channel for study group
+
+ I will be sharing a youtube channel link where people must log in with their youtube account in order to watch these videos. 
+The link will have the videos from the class as well as tutorials I make or recommend.
+I plan to meet online at least 1 time a week for each course. People who can not meet at the designated time will be able to work asynchronously using github. If you don't know what github is then you can google it yourself or you can visit this recommended youtube channel 
+
+**This Link will work soon**
+[Youtube Channel](https://go-to-youtube-and-subscribe).  
+
+### Masks are ok!
+
+YOu can wear a mask but you must use the name you use in the class so I can take attendance each time we meet.
+
+
