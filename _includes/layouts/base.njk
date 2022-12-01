@@ -27,7 +27,7 @@
             <meta property="twitter:url" content="https://mika-corner.lrnecgysiam.com/">
             <meta name="twitter:title" content="Mika-corner">
             <meta name="twitter:description" content="高知　居酒屋　ブログ">
-            <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/88948670?s=400&u=37177928f43cd41c701284b1eae589f9235e768a&v=4">
+            <meta name="twitter:image" content="https://www.japan-guide.com/g18/4009_top.jpg">
       
     <script>
 window['_fs_debug'] = false;
@@ -54,32 +54,25 @@ window['_fs_namespace'] = 'FS';
 })(window,document,window['_fs_namespace'],'script','user');
 </script>
   </head>
-  <body>
+<body>
     <header>
-    
-     <p> <h1> Mika 🌟 🛩,</h1> <p>
+      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+      <ul class="nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+      {%- endfor %}
+      </ul>
     </header>
-    
-    <main>
-    <br>
-    <p>
-    This is a private page online that I created to speak with you.
-    I can not be sure that what I wish to say to use by speaking on LINE.
-    You can talk to me on LINE but what ever I say I will reply on this page.
+    <main {% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-    日本語で返事をすることできる。
-    わかります？
-    </p>
-    <p>
-    ークリス
-    </p>
-    <br/>
-    
+      
+
+      {{ content | safe }}
     </main>
 
     <footer></footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
-</html>
