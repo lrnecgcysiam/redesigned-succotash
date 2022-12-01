@@ -11,9 +11,9 @@ layout: layouts/post.njk
 Do you promote your store on the internet? I watch many Izakaya pages on social 
 media promote their business with entertaining videos
 
-    - https://www.tiktok.com/t/ZTR4FvPAa/
-    - https://www.tiktok.com/t/ZTR4YePPJ/
-    - https://www.tiktok.com/t/ZTR4FqnSd/
+  [izakaya | Tiktok](https://www.tiktok.com/t/ZTR4FvPAa/)
+  [izakaya | Tiktok](https://www.tiktok.com/t/ZTR4YePPJ/)
+  [izakaya | Tiktok](https://www.tiktok.com/t/ZTR4FqnSd/)
 
 ## ソーシャルメディアで自分昇進
 
@@ -27,6 +27,6 @@ media promote their business with entertaining videos
 
 Please check my tiktok account to see some of my work.
 
-  -  https://www.tiktok.com/t/ZTR4YJ3S3/
-  -  https://www.tiktok.com/t/ZTR4FgrEy/
+  -  [Managed.State | Tiktok](https://www.tiktok.com/t/ZTR4YJ3S3/)
+  -  [DDR Dojo | Tiktok](https://www.tiktok.com/t/ZTR4FgrEy/)
   
