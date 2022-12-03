@@ -1,8 +1,6 @@
 ---
-title: What are your future plans for your shop?
-description: Corner 🍱 🌯 🥐
-date: 2022-12-02
-thumb: '/img/cssforms_tn.png'
+title: Can you make money on Social Media?
+description: 甘音 🎂
 layout: layouts/post.njk
 ---
 
