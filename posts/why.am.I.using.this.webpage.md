@@ -8,7 +8,16 @@ layout: layouts/post.njk
 
 ## Kumiko 🌟,
 
-This is a private page online that I created to speak with you. I can not be sure that what I wish to say to use by speaking on LINE. You can talk to me on LINE but what ever I say I will reply on this page. 日本語で返事をすることできる。 わかります？
+Sometimes when we are speaking I think I am not explaining myself 
+as well as I would so I will be using this webpage to work on this
+and share it with you over line.
+
+時々、私にはちゃんと説明できないので、ここで
+練習したいでから。このウェブページをGoogle翻訳できます。
+ラインで返事できます。
+
+
+[![IMG-2126.jpg](https://i.postimg.cc/fWdvFxbD/IMG-2126.jpg)](https://postimg.cc/py285586)
 
 --<cite>クリス</cite>
 
