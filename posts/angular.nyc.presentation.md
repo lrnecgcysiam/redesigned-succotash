@@ -33,7 +33,7 @@ He was my senior at many of the consulting jobs at had in new york. We worked on
 
 ### The Glitch
 
-[Learn More]()
+[Learn More](/posts/angular-nyc-glitch/)
 
 
 [![veronica-manlow-computer-sexy.jpg](https://i.postimg.cc/BQhh35SN/veronica-manlow-computer-sexy.jpg)](https://postimg.cc/fJ97j900)
